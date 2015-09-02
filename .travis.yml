@@ -1,4 +1,6 @@
-language: objective-c
+os:
+  - osx
+  - linux
 
 env:
   global:
